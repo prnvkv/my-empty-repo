@@ -1,4 +1,4 @@
 helm:
-  chart: oci://20.163.29.125:5000/local/postgresql
-  disableDNS: true
+  repo: https://rancher.my.org/v1/catalog.cattle.io.clusterrepos/harbor-pranav
+  chart: postgresql
 
