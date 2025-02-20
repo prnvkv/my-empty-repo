@@ -1,5 +1,4 @@
 helm:
-  repo: http://9.169.173.37/v1/catalog.cattle.io.clusterrepos/harbor-pranav
-  disableDNS: true
+  repo: https://rancher.my.org/v1/catalog.cattle.io.clusterrepos/harbor-pranav
   chart: postgresql
 
