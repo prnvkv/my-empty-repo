@@ -1,4 +1,4 @@
 helm:
-  repo: https://rancher.my.org/v1/catalog.cattle.io.clusterrepos/harbor-pranav
-  chart: postgresql
+  repo: https://charts.rancher.io
+  chart: elemental
 
