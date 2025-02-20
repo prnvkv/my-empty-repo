@@ -1,3 +1,5 @@
 helm:
-  chart: oci://20.163.29.125/local/postgresql
+  chart: postgresql
+  disableDNS: true
+  repo: http://20.163.29.125:5000/local
 
