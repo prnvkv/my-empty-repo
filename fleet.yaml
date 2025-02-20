@@ -1,5 +1,4 @@
 helm:
-  chart: local/postgresql
+  chart: http://20.163.29.125:5000/local/postgresql
   disableDNS: true
-  repo: http://20.163.29.125:5000/
 
