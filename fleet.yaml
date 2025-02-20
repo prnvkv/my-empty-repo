@@ -1,4 +1,4 @@
 helm:
-  chart: http://20.163.29.125:5000/harbor/projects/2/repositories/postgresql/artifacts-tab
+  chart: http://20.163.29.125:5000/local/postgresql/
   disableDNS: true
 
